@@ -28,7 +28,9 @@ A modern Android Photo Editing App built using **Kotlin** and **Jetpack Compose*
 ---
 
 ## 📱 Screenshots
+![image alt](https://github.com/Aman298871/Photo_Editing_app/blob/67a7e7e40ea374c19ed6a11de2083bb26c5bfbfa/photo_2026-06-02_20-41-55.jpg)
 
+![image alt](https://github.com/Aman298871/Photo_Editing_app/blob/67a7e7e40ea374c19ed6a11de2083bb26c5bfbfa/photo_2026-06-02_20-41-58.jpg)
 
 
 | Home Screen | Filter Editing | Saved Image |
